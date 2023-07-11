@@ -1,2 +1,1 @@
-# Aprendiendo-Henry
-Este es un repositorio de prueba del modulo2 del PrepCourse de Henry2.0
+Este proyecto es una prueba de crear y clonar un repositorio desde github a mi computadora
